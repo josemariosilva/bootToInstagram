@@ -9,7 +9,7 @@ Este projeto automatiza ações no Instagram como login, curtidas, seguir e logo
 
 
 
-📂 projeto/
+📂 projeto//
 │
 ├── classeMain.py # Script principal de execução
 ├── funcoes.py # Funções auxiliares (login, clicar, curtir, etc)
