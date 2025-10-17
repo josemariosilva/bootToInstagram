@@ -11,10 +11,10 @@ Este projeto automatiza ações no Instagram como login, curtidas, seguir e logo
 
 📂 projeto//
 │
-├── classeMain.py # Script principal de execução
-├── funcoes.py # Funções auxiliares (login, clicar, curtir, etc)
-├── imagens/ # Pasta com imagens usadas pelo PyAutoGUI
-└── README.md # (Este arquivo)
+classeMain.py # Script principal de execução
+funcoes.py # Funções auxiliares (login, clicar, curtir, etc)
+imagens/ # Pasta com imagens usadas pelo PyAutoGUI
+README.md # (Este arquivo)
 
 
 ---
