@@ -173,4 +173,4 @@ Recomendado rodar em tela cheia, sem janelas obstruindo os elementos.
 📬 Contato
 
 Esse projeto foi desenvolvido para fins de automação pessoal.
-Use com responsabilidade e respeitando os termos de uso do Instagram.
+Deve-se levar em conta os termos de uso do Instagram.
